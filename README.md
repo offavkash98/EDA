@@ -7,9 +7,13 @@ Agenda
         Important charts for visualization.
 4. Steps involved in EDA:-
          Data Sourcing
+
          Data Cleaning
+
          Univariate analysis with visualization
+
          Bivariate analysis with visualization
+
          Derived Metrics
 
 

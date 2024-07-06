@@ -11,7 +11,6 @@ Agenda
          Univariate analysis with visualization
          Bivariate analysis with visualization
          Derived Metrics
-5. Use Cases
 
 
 What is Exploratory Data Analysis
@@ -31,22 +30,3 @@ structure, finding out anomalies.
 dataset for deep thorough analysis that will detect you business problem.
 • EDA help to build a quick and dirty model, or a baseline model, which can serve as a
 comparison against later models that you will build.
-
-
-Visualization
-
-Visualization is the presentation of the data in the graphical or visual form to understand the data more
-clearly. Visualization is easy to understand the data.
-1) Help to get meaningful insights from the data.
-2) Easily understand the features of the data
-3) Easily analyze the data and summarize it.
-4) Help to find the trend or pattern of the data.
-
-
-Steps involved in EDA 
-1) Data Sourcing
-2) Data Cleaning
-3) Categorical Analysis 
-4) Numerical Analysis
-5) Derived Metrics
-
